@@ -1,5 +1,5 @@
 // Import MySQL connection.
-var connection = require("./connection.js.js");
+var connection = require("./connection.js");
 
 // ========================================
 // HELPER functions
